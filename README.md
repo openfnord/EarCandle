@@ -23,3 +23,6 @@ https://github.com/vismodo/django-login-and-register
 
 Status:
 EarCandle is sort of a playground for now.
+
+
+Hints: Maybe, statically linked oasislinux is a good VM platform for EarCandle
