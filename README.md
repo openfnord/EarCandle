@@ -21,6 +21,12 @@ https://github.com/samir321-pixel/Django-Registration
 https://github.com/vismodo/django-login-and-register
 
 
+
+For Proxmox-VE remote control:
+(proxmoxer a python based wrapper to address the proxmox api)
+https://github.com/proxmoxer/proxmoxer
+
+
 Status:
 EarCandle is sort of a playground for now.
 
