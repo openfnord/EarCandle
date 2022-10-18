@@ -12,6 +12,11 @@ https://github.com/novnc/noVNC
 
 https://github.com/joshpatten/PVE-VDIClient
 
+Apache Guacamole!
+https://github.com/osc3b/proxmox-guacamole-client
+Interessting architecture! The Database part should be integrated with the registration and login-foo below :-)
+(This integration uses containers, which could be a security issuse. Better to use a VM to serve guacamole and the supporting infrastructure, as
+one wants to minimize the attack surface of a virtualization server. It es easier to jail-break a "container" (escape linux name spaces) than a virtualization (or "containers" in a virtual machine with proper hardware insulation)
 
 
 For registration and login-foo:
