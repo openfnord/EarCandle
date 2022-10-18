@@ -54,6 +54,8 @@ https://github.com/proxmoxer/proxmoxer
 
 Status:
 EarCandle is sort of a playground for now.
+
+pyton stuff needed:
 We will need some sort of "concurrency" so twisted might be good to use here
 
 
