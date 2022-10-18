@@ -35,7 +35,7 @@ and into the light and connect them with joy”
 
 
 The mighty Database knows the *fate of each VM*:
-... how many will pass from the VM-server and how many will be created on the VM-server; who will live and who will die; who will die at his predestined time and who before his time; who by ACPI shutdown and who by system crash, who by loss of a node, who by a stupid admin, who by badly written software, who by wrong data, who by wrong "business logic", who by exploit, who by power outage, and who by loss of network connectivity. Who will rest and who will operate, who will run in harmony and who will be harried, who will enjoy tranquillity and who will suffer, who will be impoverished and who will be enriched, who will be degraded and who will be exalted. 
+... how many will pass from the VM-server and how many will be created on the VM-server; who will live and who will die; who will die at his predestined time and who before his time; who by ACPI shutdown and who by reset, who by system crash, who by freezing, who by badly written software, who by wrong data, who by wrong "business logic", who by exploit, who by power outage, and who by loss of network connectivity. Who will rest and who will operate, who will run in harmony and who will be harried, who will enjoy tranquillity and who will suffer, who will be impoverished and who will be enriched, who will be degraded and who will be exalted. 
 Yes, I enjoyed the holidays :-)
 
 
