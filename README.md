@@ -22,6 +22,7 @@ Serving the net of the VM:
 A VM shall be generic and indifferntly if it is a full clone or a linked clone based on a template.
 
 Therefore a *database driven DHCP server*, that serves static dhcp leases needs to be used ....
+https://github.com/flan/staticdhcpd
 
 As the database as **single point of truth knows** 
 
