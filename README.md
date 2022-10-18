@@ -54,6 +54,7 @@ https://github.com/proxmoxer/proxmoxer
 
 Status:
 EarCandle is sort of a playground for now.
+We will need some sort of "concurrency" so twisted might be good to use here
 
 
 Hints: Maybe, statically linked oasislinux is a good VM platform for EarCandle
