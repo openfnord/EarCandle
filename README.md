@@ -18,8 +18,27 @@ Interessting architecture! The Database part should be integrated with the regis
 (This integration uses containers, which could be a security issuse. Better to use a VM to serve guacamole and the supporting infrastructure, as
 one wants to minimize the attack surface of a virtualization server. It es easier to jail-break a "container" (escape linux name spaces) than a virtualization (or "containers" in a virtual machine with proper hardware insulation)
 
+Serving the net of the VM:
+A VM shall be generic and indifferntly if it is a full clone or a linked clone based on a template.
 
-For registration and login-foo:
+Therefore a *database driven DHCP server*, that serves static dhcp leases needs to be used ....
+
+As the database as **single point of truth knows** 
+
+“One Database to rule them all,
+One Database to find them,
+One Database to bring them all
+and into the light and connect them with joy”
+
+― modified and inspired by J.R.R. Tolkien, The Fellowship of the Ring 
+
+
+The mighty Database knows the *fate of each VM*:
+... how many will pass from the VM-server and how many will be created on the VM-server; who will live and who will die; who will die at his predestined time and who before his time; who by ACPI shutdown and who by system crash, who by loss of a node, who by a stupid admin, who by badly written software, who by wrong data, who by wrong "business logic", who by exploit, who by power outage, and who by loss of network connectivity. Who will rest and who will operate, who will run in harmony and who will be harried, who will enjoy tranquillity and who will suffer, who will be impoverished and who will be enriched, who will be degraded and who will be exalted. 
+Yes, I enjoyed the holidays :-)
+
+
+For registration and login-foo the mighty database might have these servants:
 
 https://github.com/samir321-pixel/Django-Registration
 
